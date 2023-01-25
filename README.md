@@ -34,3 +34,4 @@ print(len(f.axes[1]))
 ## OUTPUT:
 ![output](./CSV.png)
 ## RESULT:
+Hence the program to read from a csv file is executed.
